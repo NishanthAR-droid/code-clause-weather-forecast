@@ -24,7 +24,7 @@ This is a weather forecasting application built with React JS and Tailwind CSS, 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/weather-forecasting-app.git
+   git clone https://github.com/NishanthAR-droid/code-clause-weather-forecast
    ```
 
 2. Navigate to the project directory:
