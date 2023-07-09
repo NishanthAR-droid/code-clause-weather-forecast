@@ -27,7 +27,7 @@ Check out the live demo of the Weather Forecasting Application: [Weather Forecas
 
 1. Clone the repository:
    ```
-   git clone https://github.com/NishanthAR-droid/code-clause-weather-forecast
+   git clone https://github.com/NishanthAR-droid/code-clause-weather-forecast.git
    ```
 
 2. Navigate to the project directory:
