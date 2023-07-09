@@ -2,6 +2,9 @@
 
 This is a weather forecasting application built with React JS and Tailwind CSS, utilizing the OpenWeatherMap API. The application provides users with hourly and daily forecasts, along with various weather data such as temperature, maximum and minimum temperature, humidity, real feel, sunrise, sunset, and local time at the selected location.
 
+##Demo
+Check out the live demo of the Weather Forecasting Application: [Weather Forecasting App Demo](https://nishanthar-droid.github.io/code-clause-weather-forecast/)
+
 ## Technologies Used
 
 - JavaScript
