@@ -1,4 +1,3 @@
-import { isContentEditable } from "@testing-library/user-event/dist/utils";
 import React from "react";
 import { iconUrlFromCode } from "../services/weatherService";
 
