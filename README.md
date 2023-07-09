@@ -29,7 +29,7 @@ This is a weather forecasting application built with React JS and Tailwind CSS, 
 
 2. Navigate to the project directory:
    ```
-   cd weather-forecasting-app
+   cd code-clause-weather-forecast
    ```
 
 3. Install the dependencies:
