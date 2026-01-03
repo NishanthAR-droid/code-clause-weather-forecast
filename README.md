@@ -23,6 +23,13 @@ Check out the live demo of the Weather Forecasting Application: [Weather Forecas
 - City search using a text box
 - Current location-based search
 
+## Screenshots
+
+![Weather Forecast](screenshots/picture1.jpg)
+![Weather Forecast](screenshots/picture2.jpg)
+![Weather Forecast](screenshots/picture3.jpg)
+
+
 ## Installation
 
 1. Clone the repository:
