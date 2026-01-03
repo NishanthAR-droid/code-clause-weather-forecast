@@ -25,9 +25,9 @@ Check out the live demo of the Weather Forecasting Application: [Weather Forecas
 
 ## Screenshots
 
-![Weather Forecast](screenshots/picture1.jpg)
-![Weather Forecast](screenshots/picture2.jpg)
-![Weather Forecast](screenshots/picture3.jpg)
+![Weather Forecast](screenshots/Picture1.png)
+![Weather Forecast](screenshots/Picture2.png)
+![Weather Forecast](screenshots/Picture3.png)
 
 
 ## Installation
